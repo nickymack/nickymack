@@ -1,0 +1,20 @@
+
+body {text-align: center; margin:auto;
+  background-color:#dddcd7;}
+p {float:center; color:#523128;}
+button {background-color:##8ba4ac; width:auto;}
+a:hover {
+  color:#7b221f;
+}
+/*you can't have any space between a and : and hover */
+
+a::first-letter{font-size: 1.5em;}
+article {display:inline-block; margin:0-auto;}
+h1{margin:0-auto; color:#523128;}
+h2{margin:0-auto; color:#523128;}
+.pictures {display:inline-block; border-radius: 80%; margin-left:auto; margin-right:auto; width:15rem;}
+footer {border: 2px solid #da7271; background-color:#392f4b}
+footer p{color:#dddcd7;}
+link {color:#8ba4ac}
+article img{width:33%;}
+figcaption {font-size:3em; color:#e45e58}
